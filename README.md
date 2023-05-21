@@ -51,12 +51,12 @@ To access the protected routes, you will need to send the login's response token
 
 ### To install dependencies:
 
-> npm install
+`` npm install ``
 
 ### To import the database:
 
-> cat epytodo.sql | mysql -u root -p
+`` cat epytodo.sql | mysql -u root -p``
 
 ### Run with
 
-> npm start
+`` npm start ``
